@@ -4,5 +4,10 @@ WADUUUppppp
 
 HELLO SHIONNNNNN
 HULLO
-HEY speedy boi ah
-YOOOOOOO WHY NO REPLY HUH
+
+```
+console.log("ISTD BIK BRAIN")
+```
+I love Git
+
+
