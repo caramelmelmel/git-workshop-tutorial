@@ -4,6 +4,4 @@ WADUUUppppp
 
 HELLO SHIONNNNNN
 HULLO
-```
-console.log("ISTD BIK BRAIN")
-```
+HEY speedy boi ah
