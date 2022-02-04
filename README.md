@@ -1,6 +1,9 @@
 # git-workshop-tutorial
 SUPPPPPPPPPPPPP
 WADUUUppppp
+
+HELLO SHIONNNNNN
+HULLO
 ```
-print("hello world")
+console.log("ISTD BIK BRAIN")
 ```
